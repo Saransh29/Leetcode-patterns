@@ -36,9 +36,9 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/number-of-distinct-islands/
 - [ ] https://leetcode.com/problems/detect-cycles-in-2d-grid/
 ## Pattern: Two Pointers
-- [ ] https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
-- [ ] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-- [ ] https://leetcode.com/problems/squares-of-a-sorted-array/
+- [X] https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+- [X] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+- [X] https://leetcode.com/problems/squares-of-a-sorted-array/
 - [ ] https://leetcode.com/problems/3sum/ (Blind)
 - [ ] https://leetcode.com/problems/3sum-closest/
 - [ ] https://leetcode.com/problems/3sum-smaller/

@@ -143,13 +143,13 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 ## Pattern: Top 'K' elements
 - Couldn't find Top 'K' elements
 - Couldn't find Kth Smallest Number
-- [ ] https://leetcode.com/problems/k-closest-points-to-origin/
+- [X] https://leetcode.com/problems/k-closest-points-to-origin/
 - [ ] https://leetcode.com/problems/minimum-cost-to-connect-sticks/
-- [ ] https://leetcode.com/problems/top-k-frequent-elements/ (Blind)
-- [ ] https://leetcode.com/problems/sort-characters-by-frequency/
-- [ ] https://leetcode.com/problems/kth-largest-element-in-a-stream/
+- [X] https://leetcode.com/problems/top-k-frequent-elements/ (Blind)
+- [X] https://leetcode.com/problems/sort-characters-by-frequency/
+- [X] https://leetcode.com/problems/kth-largest-element-in-a-stream/
 - [ ] https://leetcode.com/problems/find-k-closest-elements/
-- [ ] https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
+- [X] https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
 - Couldn't find Sum of Elements
 - [ ] https://leetcode.com/problems/reorganize-string/
 - [ ] https://leetcode.com/problems/rearrange-string-k-distance-apart/
